@@ -1,0 +1,26 @@
+# Blender MTL File: 'trees.blend'
+# Material Count: 2
+
+newmtl m_leaves
+Ns 410.764443
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.800000 0.012392
+Ks 0.000000 0.000000 0.000000
+Ke 0.000261 0.000000 0.012601
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.700000 /home/david/Downloads/textures/pine_stylized_Albedo.png
+
+newmtl m_trunk
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.050909 0.050909 0.050909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /home/david/Downloads/source/F:/Will/3d/assets_library/pine_stylized1/textures/pine_stylized_Normal.png
+map_Kd /home/david/Downloads/textures/pine_stylized_Albedo.png
+map_d /home/david/Downloads/textures/pine_stylized_Albedo.png
