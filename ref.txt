@@ -3,8 +3,19 @@ Based on: https://github.com/Zylann/godot_voxel under: https://github.com/Zylann
 CC Attribution https://sketchfab.com/3d-models/wooden-logs-asset-pack-441fb13a0bf24f9aa8c4a219e5ab9be3
 CC Attribution https://sketchfab.com/3d-models/stylized-pine-tree-pack-46ac3c1a4c3645b1984a97568db54c5d
 CC Attribution https://sketchfab.com/3d-models/realistics-grass-03-2589c4f89dac4bbfab7f66be615f262e
+
+https://mars.nasa.gov/resources/25043/mars-ingenuity-helicopter-3d-model/
 CC Attribution https://sketchfab.com/3d-models/grass-low-poly-08c126cdc4a54334b8d67d258bc38f53
 
+CC-by munro98 https://www.blendswap.com/blend/22331
+CC 0 Nodelete by https://blendswap.com/blend/7340
+CC-BY 3.0 by jdagenet https://opengameart.org/content/sci-fi-drone-loop
+CC-BY 3.0 by KLY https://opengameart.org/content/whistle
+CC 0 by Kenney https://opengameart.org/content/sci-fi-sounds
+CC 0 by NenadSimic https://opengameart.org/content/muffled-distant-explosion
+CC-BY 3.0 by spookymodem https://opengameart.org/content/breaking-bottle
+CC 0 by RayB2 https://opengameart.org/content/vehicles-0
+CC 0 by Karmabub https://opengameart.org/content/blue
 
 Planded:
 https://sketchfab.com/3d-models/police-ai-digital-station-801c61d2d6db4635907997ed64f5d0f3
